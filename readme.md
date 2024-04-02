@@ -1,7 +1,7 @@
 # For BSP test
 
 ## Example:  
-Rasp 3B  
+Rasp 3B  CM4
 Linux 5.10.103  
 2022-04-04-raspios-buster-armhf.img   
 
