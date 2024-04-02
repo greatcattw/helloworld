@@ -13,7 +13,7 @@ sudo apt-get -y install raspberrypi-kernel-headers
 sudo insmod hellomod.ko  
 dmesg | tail  
 
-sudo rmmod hellomod
+sudo rmmod hellomod  
 dmesg | tail
 
 
