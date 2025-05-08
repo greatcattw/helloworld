@@ -21,8 +21,8 @@ dmesg | tail
 ## OK1012A / LS1012
 
 ubuntu 18.04.1 K4.14.47  
-<br>![pic](pic/ls1012_a.png)<br>
+<br>![pic](ls1012/pic/ls1012_a.png)<br>
 hello world  
-<br>![pic](pic/ls1012_b.png)<br>
+<br>![pic](ls1012/pic/ls1012_b.png)<br>
 hellomod  
-<br>![pic](pic/ls1012_c.png)<br>
+<br>![pic](ls1012/pic/ls1012_c.png)<br>
