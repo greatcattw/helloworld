@@ -1,7 +1,6 @@
 # For BSP test
 
-## Example:  
-Rasp 3B  CM4
+## Rasp 3B  CM4
 Linux 5.10.103  
 2022-04-04-raspios-buster-armhf.img   
 
@@ -16,4 +15,14 @@ dmesg | tail
 sudo rmmod hellomod  
 dmesg | tail
 
+## ubuntu
 
+
+## OK1012A / LS1012
+
+ubuntu 18.04.1 K4.14.47  
+<br>![pic](pic/ls1012_a.png)<br>
+hello world  
+<br>![pic](pic/ls1012_b.png)<br>
+hellomod  
+<br>![pic](pic/ls1012_c.png)<br>
